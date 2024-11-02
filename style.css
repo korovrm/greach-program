@@ -160,7 +160,7 @@ p {
     padding: 10px 20px;
     border-radius: 4px;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: bold;
     transition: all 0.3s ease;
     border: 2px solid #dadce0;
 }
