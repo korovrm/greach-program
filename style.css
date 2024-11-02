@@ -105,6 +105,10 @@ h2 {
     font-size: 2rem;
     color: var(--google-red);
 }
+h2#summary {
+    font-size: 2rem;
+    color: var(--google-yellow);
+}
 
 h3 {
     font-size: 1.5rem;
