@@ -106,7 +106,7 @@ h2 {
     color: var(--google-red);
 }
 
-#summary {
+h2#summary {
     font-size: 2rem;
     color: var(--google-yellow);
 }
