@@ -7,11 +7,6 @@
     --background-color: #ffffff;
 }
 
-/* Recommended */
-body {
-  overflow-x: clip;
-}
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -192,7 +187,8 @@ footer {
     background-color: #f8f9fa;
     text-align: center;
     padding: 20px 0;
-    margin-top: 40px;
+    position: fixed;
+    width: 100%;
 }
 
 #back-to-top {
